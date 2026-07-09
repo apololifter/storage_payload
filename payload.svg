@@ -1,1 +1,1 @@
-<style>@keyframes x{}</style><svg style="animation-name:x" onwebkitanimationend="alert(1)">  PWNED </svg>
+<iframe onload=alert(1)></iframe>
